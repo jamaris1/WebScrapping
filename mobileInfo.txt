@@ -1,0 +1,24 @@
+POCO M3 ,Rs.11999,4.3,Power Black, 128 GB
+APPLE iPhone 11 ,Rs.44999,4.6,White, 64 GB
+APPLE iPhone 11 ,Rs.44999,4.6,Black, 64 GB
+Redmi 9 Prime ,Rs.9499,4.4,Space Blue, 64 GB
+POCO M3 ,Rs.10999,4.3,Cool Blue, 64 GB
+REDMI 9i ,Rs.7999,4.3,Midnight Black, 64 GB
+REDMI 9i ,Rs.7999,4.3,Sea Blue, 64 GB
+realme C12 ,Rs.7999,4.4,Power Silver, 32 GB
+realme C12 ,Rs.7999,4.4,Power Blue, 32 GB
+realme C11 ,Rs.7499,4.4,Rich Grey, 32 GB
+realme C11 ,Rs.7499,4.4,Rich Green, 32 GB
+APPLE iPhone 11 ,Rs.44999,4.6,Purple, 64 GB
+realme C12 ,Rs.8999,4.4,Power Silver, 64 GB
+realme C15 ,Rs.9999,4.4,Power Silver, 64 GB
+POCO C3 ,Rs.8499,4.3,Arctic Blue, 64 GB
+POCO C3 ,Rs.8499,4.3,Matte Black, 64 GB
+POCO C3 ,Rs.7499,4.3,Arctic Blue, 32 GB
+realme 7 ,Rs.15499,4.3,Mist Blue, 128 GB
+realme 7 ,Rs.13499,4.3,Mist Blue, 64 GB
+realme C15 ,Rs.8999,4.3,Power Blue, 32 GB
+REDMI 9i ,Rs.7999,4.3,Nature Green, 64 GB
+realme Narzo 30A ,Rs.8999,4.5,Laser Blue, 32 GB
+GIONEE Max ,Rs.4999,4.1,Royal Blue, 32 GB
+GIONEE Max ,Rs.4999,4.1,Red, 32 GB
